@@ -1,5 +1,5 @@
-# Deepseek媲美的ChatGPT应该如何使用——ChatGPT中文版 镜像使用指南（支持GPT4.0、GPT o1）【2025年1月更新】
-> 更新时间：2025年1月30日
+# Deepseek媲美的ChatGPT应该如何使用——ChatGPT中文版 镜像使用指南（支持GPT4.0、GPT o1）【2025年2月更新】
+> 更新时间：2025年2月2日
 ---
 
 ## **ChatGPT中文版介绍**
