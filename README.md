@@ -1,5 +1,5 @@
-# Deepseek媲美的ChatGPT应该如何使用——ChatGPT中文版 镜像使用指南（支持GPT4.0、GPT o1）【2025年3月更新】
->更新时间: 2025-03-16
+# Deepseek媲美的ChatGPT应该如何使用——ChatGPT中文版 镜像使用指南（支持GPT4.0、GPT o1）【2025年5月更新】
+>更新时间: 2025-05-19
 ---
 
 ## **ChatGPT中文版介绍**
@@ -42,10 +42,10 @@ deepseek是一款同样具备强大对话功能的AI产品，专为需要深度�
 
 | 网站名 | 链接 | 支持功能 |
 | --- | --- | --- |
-| 易下AI | [https://www.yixiaai.com](https://www.yixiaai.com) | GPT4.0、GPT o1、AI绘画 |
-| Lify | [https://chat.lify.vip](https://chat.lify.vip) | GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 |
-| 电脑客户端 | [下载链接](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi) | 适用于Windows，支持上述功能 |
-| Edge浏览器插件 | [下载链接](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) | 支持Edge插件 |
+| 易下AI | [https://www.yixiaai.com](https://xsimplechat.com) | GPT4.0、GPT o1、AI绘画 |
+| Lify | [https://chat.lify.vip](chat.lanjing.pro) | GPT4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 |
+| 电脑客户端 | [下载链接](https://chat.lanjing.pro) | 适用于Windows，支持上述功能 |
+| Edge浏览器插件 | [下载链接](https://xsimplechat.com) | 支持Edge插件 |
 | Chrome浏览器插件 | [下载链接](https://chromewebstore.google.com/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88ai-%E6%99%BA%E6%85%A7%E5%B2%9B%EF%BC%89/jffjfhngfgcglmjjpakgekefpegmhkll?hl=zh-CN&utm_source=ext_sidebar) | 支持Chrome插件 |
 | 览景AI | [https://guide1.lanjing.ai](https://guide1.lanjing.ai) | 支持GPT全系列模型 |
 
